@@ -1,8 +1,8 @@
 #### Triangle Java Users Group Presents...
-## The Java Legacy Code Survival Guide:
-## Add Features Without Fear
-#### by Steven Diamante
-August 25, 2025
+## Stream Gatherers
+## The Missing Link in Java Streams
+#### by Todd Ginsberg
+September 22, 2025
 
 --slide--
 
@@ -20,15 +20,24 @@ August 25, 2025
 
 --slide--
 
-# Next Meetup
+## next.trijug.dev
+<hr>
 
-## Stream Gatherers: The Missing Link in Java Streams
-#### by Todd Ginsberg
+## The Three Amigos: Intermixing Pattern Matching, Records, and Sealed Classes
+<hr>
 
-Monday, September 22, 2025
+### by Dr. Venkat Subramaniam
+
+Tuesday, October 14, 2025
 
 At Deutsche Bank
 
+--slide--
+
+# All Things Open
+
+* October 12-14 in Raleigh, NC
+* I have 9 passes! See me after.
 
 --slide--
 
@@ -42,7 +51,7 @@ At Deutsche Bank
 # DevNexus
 
 * March 4-6, 2026 @ Atlanta, GA
-* Run by AJUG
+* Run by Atlanta JUG
 
 --slide--
 
@@ -58,3 +67,9 @@ At Deutsche Bank
 * Personal and professional growth
 * Looks great on a r&eacute;sum&eacute; and makes you a hit at parties
 
+--slide--
+
+# CFP is Always Open
+
+* Go to <u>cfp.trijug.dev</u>
+* Ideas or full talks are welcome
