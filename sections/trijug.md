@@ -1,8 +1,12 @@
 #### Triangle Java Users Group Presents...
-## Stream Gatherers
-## The Missing Link in Java Streams
-#### by Todd Ginsberg
-September 22, 2025
+<hr/>
+
+## The Three Amigos: 
+## Intermixing Pattern Matching, Records, and Sealed Classes
+<hr/>
+
+### by Dr. Venkat Subramaniam
+October 14, 2025
 
 --slide--
 
@@ -17,8 +21,15 @@ September 22, 2025
 
 <img src="images/qr/qr-discord.png" height="400" width="400" style="border:none; box-shadow:none; background:white;"/>
 
+--slide--
+
+# Next Meetup == ???
 
 --slide--
+
+# Lightning Talks in 2026
+
+<!--
 
 ## next.trijug.dev
 <hr>
@@ -31,20 +42,22 @@ September 22, 2025
 Tuesday, October 14, 2025
 
 At Deutsche Bank
+-->
 
 --slide--
 
-# All Things Open
+# CFP is Always Open
 
-* October 12-14 in Raleigh, NC
-* I have 9 passes! See me after.
+* Go to <u>cfp.trijug.dev</u>
+* Ideas or full talks are welcome
 
 --slide--
 
-# dev2next
-
-* Sept 29 - Oct 2 @ Colorado Springs, CO
-* Run by Venkat Subramaniam
+# Why not volunteer?
+* Expand your network
+* Become a leader in the community
+* Personal and professional growth
+* Looks great on a r&eacute;sum&eacute; and makes you a hit at parties
 
 --slide--
 
@@ -59,17 +72,4 @@ At Deutsche Bank
 
 * March 17-19, 2026 @ Bay Area, CA
 
---slide--
 
-# Why not volunteer?
-* Expand your network
-* Become a leader in the community
-* Personal and professional growth
-* Looks great on a r&eacute;sum&eacute; and makes you a hit at parties
-
---slide--
-
-# CFP is Always Open
-
-* Go to <u>cfp.trijug.dev</u>
-* Ideas or full talks are welcome
