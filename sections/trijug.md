@@ -1,12 +1,12 @@
 #### Triangle Java Users Group Presents...
 <hr/>
 
-## The Three Amigos: 
-## Intermixing Pattern Matching, Records, and Sealed Classes
+## Rapid Web Development in the Java Ecosystem: 
+## Intro to Apache Grails 7
 <hr/>
 
-### by Dr. Venkat Subramaniam
-October 14, 2025
+### by James Fredley
+November 17, 2025
 
 --slide--
 
@@ -23,7 +23,7 @@ October 14, 2025
 
 --slide--
 
-# Next Meetup == ???
+# Next Meetup == 2026
 
 --slide--
 
