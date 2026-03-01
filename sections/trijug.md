@@ -1,12 +1,12 @@
 #### Triangle Java Users Group Presents...
 <hr/>
 
-## Rapid Web Development in the Java Ecosystem: 
-## Intro to Apache Grails 7
+## Future-Proofing Java: 
+## The Art of Crafting Resilient APIs
 <hr/>
 
-### by James Fredley
-November 17, 2025
+### by Steve Poole
+March 2, 2026
 
 --slide--
 
@@ -21,9 +21,6 @@ November 17, 2025
 
 <img src="images/qr/qr-discord.png" height="400" width="400" style="border:none; box-shadow:none; background:white;"/>
 
---slide--
-
-# Next Meetup == 2026
 
 --slide--
 
@@ -63,8 +60,9 @@ At Deutsche Bank
 
 # DevNexus
 
-* March 4-6, 2026 @ Atlanta, GA
+* March 5-6, 2026 @ Atlanta, GA
 * Run by Atlanta JUG
+* Use Code: **DN26JAVA**
 
 --slide--
 
