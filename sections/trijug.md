@@ -1,12 +1,12 @@
 #### Triangle Java Users Group Presents...
 <hr/>
 
-## Future-Proofing Java: 
-## The Art of Crafting Resilient APIs
+## What Can You Do With
+## A (Kafka) Queue?
 <hr/>
 
-### by Steve Poole
-March 2, 2026
+### by Sandon Jacobs
+April 6, 2026
 
 --slide--
 
@@ -55,19 +55,5 @@ At Deutsche Bank
 * Become a leader in the community
 * Personal and professional growth
 * Looks great on a r&eacute;sum&eacute; and makes you a hit at parties
-
---slide--
-
-# DevNexus
-
-* March 5-6, 2026 @ Atlanta, GA
-* Run by Atlanta JUG
-* Use Code: **DN26JAVA**
-
---slide--
-
-# JavaOne
-
-* March 17-19, 2026 @ Bay Area, CA
 
 
