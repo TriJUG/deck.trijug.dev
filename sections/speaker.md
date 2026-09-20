@@ -1,6 +1,6 @@
 #### Our Speaker...
 
-# Sandon Jacobs
-- Senior Developer Advocate at Confluent
-- 20+ Years of building on the JVM
-- Works with Java, Scala, Kotlin, Groovy
+# Jennifer Reif
+- Developer Advocate at Neo4j
+- Expert in Databases, Data Modeling, and AI
+- International conference speaker

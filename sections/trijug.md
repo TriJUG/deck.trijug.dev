@@ -1,12 +1,12 @@
 #### Triangle Java Users Group Presents...
 <hr/>
 
-## What Can You Do With
-## A (Kafka) Queue?
+## Agents, Tools, and MCP, oh my! 
+## Next-level AI concepts for developers
 <hr/>
 
-### by Sandon Jacobs
-April 6, 2026
+### by Jennifer Reif
+September 21, 2026
 
 --slide--
 
@@ -21,10 +21,6 @@ April 6, 2026
 
 <img src="images/qr/qr-discord.png" height="400" width="400" style="border:none; box-shadow:none; background:white;"/>
 
-
---slide--
-
-# Lightning Talks in 2026
 
 <!--
 
