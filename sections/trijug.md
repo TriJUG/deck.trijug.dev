@@ -21,18 +21,17 @@ September 21, 2026
 
 <img src="images/qr/qr-discord.png" height="400" width="400" style="border:none; box-shadow:none; background:white;"/>
 
-
-<!--
+--slide--
 
 ## next.trijug.dev
 <hr>
 
-## The Three Amigos: Intermixing Pattern Matching, Records, and Sealed Classes
+## 7 Ways You Can Build an Amazing Dev Career in the AI Era
 <hr>
 
-### by Dr. Venkat Subramaniam
+### by Bruno Souza
 
-Tuesday, October 14, 2025
+Wednesday, October 7, 2026
 
 At Deutsche Bank
 -->
