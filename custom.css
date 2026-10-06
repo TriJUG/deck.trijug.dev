@@ -1,3 +1,59 @@
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5 {
     text-transform: none;
 }
+
+/* Title slide: content centered above a thin giveaway strip, QR in the bottom-right corner */
+.reveal .slides section.title-slide {
+    height: 100%;
+    box-sizing: border-box;
+    padding: 0;
+}
+.reveal .title-slide .title-body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.reveal .title-slide .title-body h2,
+.reveal .title-slide .title-body h3,
+.reveal .title-slide .title-body h4 {
+    margin: 0.15em 0;
+}
+.reveal .title-slide .title-body h2 {
+    text-wrap: balance;
+}
+.reveal .title-slide .title-body hr {
+    margin: 0.3em 0;
+}
+.reveal .title-slide .title-body p {
+    margin: 0.2em 0;
+}
+.reveal .title-slide .giveaway-strip {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 64px;
+    line-height: 64px;
+    font-size: 0.9em;
+    background: rgba(0, 0, 0, 0.35);
+    border-top: 3px solid #d33682;
+}
+.reveal .title-slide .giveaway-strip strong {
+    color: var(--r-heading-color);
+}
+.reveal .title-slide .giveaway-qr {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 220px;
+    height: 220px;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+    background: white;
+}

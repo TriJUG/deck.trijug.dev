@@ -1,6 +1,6 @@
 #### Our Speaker...
 
-# Jennifer Reif
-- Developer Advocate at Neo4j
-- Expert in Databases, Data Modeling, and AI
-- International conference speaker
+# Bruno Souza
+- Java Champion &amp; International conference speaker
+- Java Community Process board member
+- Founded and leads SouJava, the Brazilian Java Users Society

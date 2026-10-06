@@ -1,12 +1,19 @@
+<!-- .slide: class="title-slide" -->
+<div class="title-body">
+
 #### Triangle Java Users Group Presents...
 <hr/>
 
-## Agents, Tools, and MCP, oh my! 
-## Next-level AI concepts for developers
+## 7 Ways You Can Build an 
+## Amazing Dev Career in the AI Era
 <hr/>
 
-### by Jennifer Reif
-September 21, 2026
+### by Bruno Souza
+October 7, 2026
+
+</div>
+<div class="giveaway-strip">Win tonight's giveaway: <strong>giveaway.trijug.dev</strong></div>
+<img class="giveaway-qr" src="images/qr/qr-giveaway.png" alt="Giveaway QR code"/>
 
 --slide--
 
@@ -20,20 +27,6 @@ September 21, 2026
 # discord.trijug.dev
 
 <img src="images/qr/qr-discord.png" height="400" width="400" style="border:none; box-shadow:none; background:white;"/>
-
---slide--
-
-## next.trijug.dev
-<hr>
-
-## 7 Ways You Can Build an Amazing Dev Career in the AI Era
-<hr>
-
-### by Bruno Souza
-
-Wednesday, October 7, 2026
-
-At Deutsche Bank
 
 
 --slide--
